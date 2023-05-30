@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
 <h3> 👨 &nbsp;About me</h3>
 
 - 👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions.
