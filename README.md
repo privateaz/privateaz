@@ -1,4 +1,4 @@
-<h3> 👨 &nbsp;About me</h3>
+<h3> &nbsp;About me</h3>
 
 - 👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **WEB DEVELOPMENT** to become **FULLSTACK🚀** in the future.
